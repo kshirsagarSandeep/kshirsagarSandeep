@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Sandeep Kshirsagar
 
-<!--
-**kshirsagarSandeep/kshirsagarSandeep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full-Stack Web Developer  
+🧠 Learning: Laravel + ReactJS + SQL  
+🎯 Goal: ₹1 Lakh/month developer job within 6 months  
+📂 Currently building: Task Manager App (Laravel), To-Do App (React + API)  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+- PHP / Laravel
+- ReactJS / JavaScript
+- MySQL / SQL
+- HTML / CSS / Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 GitHub Stats
+![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=kshirsagarSandeep&show_icons=true&theme=tokyonight)
