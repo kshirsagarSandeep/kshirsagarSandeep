@@ -1,14 +1,14 @@
 # 👋 Hi, I'm Sandeep Kshirsagar
 
-🚀 Full-Stack Web Developer specializing in Laravel, CodeIgniter, ReactJS, and SQL.  
+🚀 Software Web Developer specializing in PHP CodeIgniter, Laravel, ReactJS, and SQL.  
 🧠 Passionate about building clean, scalable, and efficient web applications.  
 💼 3.5+ years of experience working with real-world data and backend systems.  
 🌱 Currently working on improving frontend skills and building full-stack projects.
 
 ## 🛠️ Tech Stack
 - **Languages:** PHP, JavaScript, SQL
-- **Frameworks:** Laravel, CodeIgniter, ReactJS, Bootstrap
-- **Tools:** Git, VS Code, Postman, MySQL
+- **Frameworks:** CodeIgniter, Laravel, ReactJS, Bootstrap
+- **Tools:** Git, VS Code, Sublime, MySQL
 
 ## 🎨 Other Tools & Skills
 - MS Office (Excel, Word, PowerPoint)
